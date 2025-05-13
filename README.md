@@ -21,6 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CalebVoskuil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![GitHub Contribution Grid Snake](https://github.com/CalebVoskuil/CalebVoskuil/blob/main/github-contribution-grid-snake-dark.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=CalebVoskuil&icon=0&color=13)](https://visitcount.itsvg.in)
 
