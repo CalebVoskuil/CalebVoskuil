@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on personal budgeting app in kotlin<br>👯 I’m looking to collaborate on any cool open source projects<br> Link to my portfolio(work in progress) [](voskuils.com)<br>
+🔭 I’m currently working on a personal budgeting app in Kotlin  
+👯 I’m looking to collaborate on any cool open source projects  
+🌐 Portfolio (work in progress): [voskuils.com](https://voskuils.com)
 
 
 # 💻 Tech Stack:
