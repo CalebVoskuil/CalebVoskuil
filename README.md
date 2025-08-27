@@ -1,5 +1,5 @@
 #  About Me:
- I’m currently working on a personal budgeting app in Kotlin  
+ currently working on a public transport application 
  I’m looking to collaborate on any cool open source projects  
  Portfolio: [voskuils.com](https://voskuils.com)
  
