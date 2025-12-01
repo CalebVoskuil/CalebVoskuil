@@ -1,7 +1,7 @@
 #  About Me:
  currently working on a public transport application  
  I’m looking to collaborate on any cool open source projects  
- Portfolio: [voskuils.com](https://voskuils.com)
+Current project: [voskuils.com](https://voskuils.com)
  
 
 
