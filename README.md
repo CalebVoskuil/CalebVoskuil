@@ -1,6 +1,5 @@
-#  About Me:
- currently working on a public transport application  
- I’m looking to collaborate on any cool open source projects  
+#  About Me: 
+I’m looking to collaborate on any cool open source projects  
 Current project: [voskuils.com](https://voskuils.com)
  
 
