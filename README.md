@@ -1,6 +1,7 @@
 #  About Me: 
 I’m looking to collaborate on any cool open source projects  
-Current project: [voskuils.com](https://voskuils.com)
+Portfolio: [voskuils.com]([https://voskuils.com](https://nextjs-boilerplate-pi-taupe-31.vercel.app/#contact#portfolio))
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/caleb-voskuil-835a3a338/)
  
 
 
